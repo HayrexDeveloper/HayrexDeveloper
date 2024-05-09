@@ -1,5 +1,5 @@
 <h1 align="center"> </🌼isovich>  
- <img href="https://discord.com/users/149234167333388288" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=For+%F0%9F%93%A9+Support+And+%F0%9F%93%9E+Communication;Contact+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+isovich" alt="İsovich Was Here" />
+ <img href="https://discord.com/users/149234167333388288" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=Selam+%F0%9F%93%A9+Ben%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+isovich" alt="İsovich Was Here" />
 </h1>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
 <p align="center">
@@ -12,10 +12,10 @@
 
  <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Langauge's+%26+Tool's" alt="Typing SVG" /></h2>
  <h2 align="center">
- <img src="https://skillicons.dev/icons?i=cs,js,ts,lua,html,css,nodejs,mysql,sqlite,mongo,redis&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=discordjs,js,html,css,nodejs,mysql,kali,mongo,&theme=dark" />
  </h2>
   <h2 align="center">
- <img src="https://skillicons.dev/icons?i=nest,dotnet,express,gitlab,postman,powershell,regex,stackoverflow,vscode,visualstudio,atom&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=gitlab,github,powershell,kali,stackoverflow,vscode,visualstudio,linux&theme=dark" />
   </h2>
  
  
@@ -47,11 +47,9 @@
   <img src="https://lanyard.kyrie25.me/api/149234167333388288?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
 
 <br> </br>
-<!-- <a href="https://open.spotify.com/user/3147fdi6lpzsfkowj5uklg7yr76i" align="center"> <img align="center" src="https://spotify-github-profile.vercel.app/api/3147fdi6lpzsfkowj5uklg7yr76i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
- </h2> -->
- <a href="https://open.spotify.com/user/3147fdi6lpzsfkowj5uklg7yr76i" align="center"> <img align="center" src="https://svg.yalin.app/3147fdi6lpzsfkowj5uklg7yr76i"></a>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=isovich&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isovich&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+
