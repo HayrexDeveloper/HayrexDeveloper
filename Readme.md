@@ -15,7 +15,7 @@
  <img src="https://skillicons.dev/icons?i=discordjs,js,html,css,nodejs,mysql,kali,mongo,&theme=dark" />
  </h2>
   <h2 align="center">
- <img src="https://skillicons.dev/icons?i=gitlab,github,powershell,kali,stackoverflow,vscode,visualstudio,linux&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=github,powershell,kali,stackoverflow,vscode,visualstudio,linux&theme=dark" />
   </h2>
  
  
