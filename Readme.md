@@ -46,8 +46,6 @@
 <h2 align="center">
   <img src="https://lanyard.kyrie25.me/api/149234167333388288?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Esaret" width="45%" style="vertical-align: top;">
 
-<br> </br>
-
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=isovich&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
