@@ -28,7 +28,7 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
 <h2 align="center">
-<a href="https://discord.gg/1743" target="_blank"><img align="center" alt="isovich" width="80px" src="https://cdn.discordapp.com/emojis/1238097149712011304.webp?size=96&quality=lossless" /> </a>
+<a href="https://discord.gg/1916" target="_blank"><img align="center" alt="isovich" width="80px" src="https://media.discordapp.net/attachments/1269656952267608175/1269662705275637871/fKNbqa3fTseeGMbe0oe4aA.png?ex=66b42cca&is=66b2db4a&hm=e80128fad4a78ac46501dfe8fc48053946f175446b6a26e707428f1bded35d9d&=&format=webp&quality=lossless" /> </a>
  </h2>
 </br>
 
